@@ -31,7 +31,7 @@ export default function Home() {
         className="w-full max-w-md p-8 bg-black/60 shadow-lg rounded-xl border border-gray-700 backdrop-blur-lg"
       >
         <h2 className="text-3xl font-bold mb-6 text-center text-white neon-text">
-          Futuristic Form
+          Form
         </h2>
 
         {/* First Name */}
